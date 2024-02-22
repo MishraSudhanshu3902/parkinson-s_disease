@@ -1,5 +1,4 @@
 # parkinson-s_disease
-Dedicated and driven data scientist with a strong background in machine learning and a passion for healthcare applications. Seeking a position where I can leverage my expertise in utilizing advanced algorithms, particularly Random Forest, for the accurate classification of Parkinson's disease, contributing to improved diagnostics and personalized treatment strategies.
 
 Summary of Qualifications:
 
