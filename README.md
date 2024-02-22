@@ -1,7 +1,5 @@
 # parkinson-s_disease
 
-Summary of Qualifications:
-
 Proficient in various machine learning techniques, including Random Forest, Decision Trees, Support Vector Machines, and Neural Networks. Solid understanding of data preprocessing, feature engineering, and model evaluation for robust and reliable results. Experienced in Python programming and data analysis libraries such as Pandas, NumPy, and Scikit-learn. Proven track record of successfully developing predictive models to address complex healthcare challenges. Parkinson's Disease Classification using Random Forest: Parkinson's disease, a progressive neurodegenerative disorder, poses significant challenges in early and accurate diagnosis. Leveraging my expertise in machine learning, I have focused on employing the Random Forest algorithm to classify Parkinson's disease with high precision and recall rates.
 
 Approach:
